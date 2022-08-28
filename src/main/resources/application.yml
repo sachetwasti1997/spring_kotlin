@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: sachet
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: Wasti786@
+    url: jdbc:mysql://localhost:3306/web_app
